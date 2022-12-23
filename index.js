@@ -7,5 +7,3 @@ const excitedWelcomeMessage = '"WELCOME TO FLATBOOK, "' + " " + currentUser.toUp
 
 const shortGreeting = '"Welcome, ":' + currentUser.slice(0,1) + "!";
 
-const greeting = "Love to dress up";
-let message = greeting.slice(5);
